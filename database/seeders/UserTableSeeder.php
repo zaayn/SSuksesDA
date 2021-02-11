@@ -21,5 +21,13 @@ class UserTableSeeder extends Seeder
             'gender' => 'Laki-laki',
             'role' => 'admin',
         ]);
+        \App\Models\User::create([
+            'id'  => 2,
+            'name' => 'Muzayyin',
+            'email' => 'zayn@gmail.com',
+            'password' => bcrypt('12345678'),
+            'gender' => 'Laki-laki',
+            'role' => 'user',
+        ]);
     }
 }
