@@ -20,35 +20,13 @@
             </div>
         </div>
     </div>
-    
-      <div class="panel">
-          <div class="panel-body">            
-            <hr>
-            <div class="responsive-table">
-              
-            </div>
-        </div>
-      </div>
 </div>
 <div class="col-md-4" style="padding-top: 20px">
     <div class="panel">
         <div class="panel-body">
-            <h4>User Online</h4>
+            <h3>User Online</h3>
            
         </div>
     </div>
-</div>
-
-<div class="col-md-12 padding-0">
-  <div class="col-md-12">
-    <div class="panel">
-        <div class="panel-body">            
-          <hr>
-          <div class="responsive-table">
-            
-          </div>
-      </div>
-    </div>
-  </div>
 </div>
 @endsection
